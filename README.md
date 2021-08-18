@@ -9,6 +9,7 @@
   <a href="https://github.com/Carlos-Dutra-Azeredo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Dutra-Azeredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Dutra-Azeredo&layout=compact&langs_count=16&theme=dark"/>
+	<img height="30em" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>  
 </div>
 
   <div style="display: inline_block"><br>
