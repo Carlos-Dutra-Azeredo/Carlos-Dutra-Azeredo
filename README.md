@@ -9,21 +9,21 @@
   <a href="https://github.com/Carlos-Dutra-Azeredo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Dutra-Azeredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Dutra-Azeredo&layout=compact&langs_count=16&theme=dark"/>
-	<img height="30em" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>  
-</div>
+	</div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-     <img align="center" alt="Rafa-Csharp" height="150" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Call-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Call-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Call-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Call-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Call-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Call-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Call-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+     <img align="center" alt="Call-Csharp" height="150" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original-wordmark.svg">
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css"> 
-    <img align="right" alt="Rafa-gif" height="240"src="https://share-cdn.picrew.me/shareImg/org/202108/1226550_EmWNTmkN.png">
-	<img align="center" alt="Rafa-gif" height="20"src=https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg>
+    <img align="right" alt="Call-gif" height="240"src="https://share-cdn.picrew.me/shareImg/org/202108/1226550_EmWNTmkN.png">
+	<img align="center" alt="Call-gif" height="20"src=https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg>
+	  <img align="center" alt="Call-gif" height="20"src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>  
 </div>
   
   ##
