@@ -2,7 +2,8 @@
 
 
 - 🔭 Hoje tenho conhecimento em Front End HTML - CSS - JavaScript - React e de Testes e trabalho como Analista de Qualidade de Software...
-- 🌱 Estudanto Typescript ...
+- 🌱 Estudanto Typescript, AWS, Firebase..
+-
 
 
 <div>
