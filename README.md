@@ -3,14 +3,13 @@
 
 - 🔭 Hoje tenho conhecimento em Front End HTML - CSS - JavaScript - React e de Testes e trabalho como Analista de Qualidade de Software...
 - 🌱 Estudanto Typescript, AWS, Firebase..
--
 
 
 <div>
   <a href="https://github.com/Carlos-Dutra-Azeredo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Dutra-Azeredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Dutra-Azeredo&layout=compact&langs_count=16&theme=dark"/>
-	</div>
+</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Call-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
